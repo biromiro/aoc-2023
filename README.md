@@ -7,7 +7,7 @@ This repository contains my solutions to the Advent of Code 2023 challenges, sol
 The repository is organized into folders for each Advent of Code challenge day. Inside each folder, you will find:
 
 - `day-X.ipynb`: Jupyter notebook containing the Python code and explanations for the solutions to the challenges of day X.
-- `day-X.txt`: Input data necessary for solving the challenges of day X.
+- `input.txt`: Input data necessary for solving the challenges of day X.
 
 ## Getting Started
 
