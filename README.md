@@ -24,12 +24,12 @@ To run the notebooks locally, you'll need:
 
 1. Clone this repository to your local machine using:
     ```bash
-    git clone https://github.com/biromiro/Advent-of-Code-2023.git
+    git clone https://github.com/biromiro/aoc-2023.git
     ```
 
 2. Navigate to the day's folder you wish to explore:
     ```bash
-    cd Advent-of-Code-2023/day-X
+    cd aoc-2023/day-X
     ```
 
 3. Launch Jupyter Notebook or JupyterLab:
